@@ -2,6 +2,7 @@ import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import Skills from "./components/Skills";
 import Portfolio from "./components/Portfolio";
+import Contact from "./components/contact";
 const App = () => {
     return (
       <div className="overflow-x-hidden text-stone 300 antialiased">
@@ -17,6 +18,7 @@ const App = () => {
             <Hero  />
             <Skills />
             <Portfolio />
+            <Contact />
         </div>
       </div>
     )

@@ -37,6 +37,5 @@ export const PROJECTS = [
   }
 ];
 
-export const CONTACT = {
-  email: "hisariasimran123@gmail.com",
-};
+export const email = "hisariasimran123@gmail.com"
+
