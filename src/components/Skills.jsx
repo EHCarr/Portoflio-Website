@@ -46,13 +46,12 @@ const Skills = () => {
 
             <div className="flex flex-row justify-center mt-3">
                 <div
-                    className="flex flex-wrap items-center justify-normal px-10 gap-3">
+                className="flex flex-wrap items-center justify-normal px-10 gap-3">
                     <div
                     className="bg-gradient-to-r from-stone-300 to-stone-400 bg-clip-text text-l tracking-tight text-transparent">
                     English (Fluent, IELTS 7.5)
                     </div>
                 </div>
-
                 <div
                     className="flex flex-wrap items-center justify-normal px-10 gap-3">
                     <div
@@ -60,7 +59,6 @@ const Skills = () => {
                     Hindi & Nepali (Native)
                     </div>
                 </div>
-
                 <div
                     className="flex flex-wrap items-center justify-normal px-10 gap-3">
                     <div

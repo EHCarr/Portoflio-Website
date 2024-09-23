@@ -1,5 +1,5 @@
 import simranPic from "../assets/simranPic.webp"
-import simranCV from "../assets/CV_Simran.docx.pdf"
+import simranCV from "../assets/SimranHisariaCV.pdf"
 import { HERO_CONTENT } from "../constants"
 
 const Hero = () => {

@@ -3,6 +3,7 @@ import Hero from "./components/Hero";
 import Skills from "./components/Skills";
 import Portfolio from "./components/Portfolio";
 import Contact from "./components/Contact";
+import WritingSamples from "./components/WritingSample";
 const App = () => {
     return (
       <div className="overflow-x-hidden text-stone 300 antialiased">
@@ -17,6 +18,7 @@ const App = () => {
             <Navbar />
             <Hero  />
             <Skills />
+            <WritingSamples />
             <Portfolio />
             <Contact />
         </div>
