@@ -1,6 +1,6 @@
-import { FaLinkedin, FaFolder, FaFileAlt,FaHome, FaUniversity } from "react-icons/fa";
+import { FaLinkedin, FaFolder, FaFileAlt } from "react-icons/fa";
 import logo from "../assets/simranLogo.svg";
-import simranCV from "../assets/SimranHisariaCV.pdf"
+import simranCV from "../assets/SimranHisariaCV.pdf";
 
 
 const Navbar = () => {
