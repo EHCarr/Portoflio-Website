@@ -4,7 +4,7 @@ import AbortionPanel from "../assets/projects/abortion-panel.webp";
 import ngoFilm from "../assets/projects/ngo-film.webp";
 
 
-export const HERO_CONTENT = "BIO: I'm an MSc Media and Communications graduate from LSE with experience in creative writing, journalism, and marketing. From producing a radio show on tribal music to organizing panels on social issues, I love mixing creativity with real-world impact. I've worked with startups, MPs, and NGOs, crafting newsletters, doing fieldwork, and even adapting novels for web series. Whether it's policy research or designing for brands like Hamleys, I'm always ready for a fresh challenge";
+export const HERO_CONTENT = "I'm an MSc Media and Communications graduate from LSE with experience in creative writing, journalism, and marketing. From producing a radio show on tribal music to organizing panels on social issues, I love mixing creativity with real-world impact. I've worked with startups, MPs, and NGOs, crafting newsletters, doing fieldwork, and even adapting novels for web series. Whether it's policy research or designing for brands like Hamleys, I'm always ready for a fresh challenge";
 
 
 export const PROJECTS = [
